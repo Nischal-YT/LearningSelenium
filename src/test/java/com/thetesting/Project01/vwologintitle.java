@@ -6,7 +6,7 @@ import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class ex_012 {
+public class vwologintitle {
 
 // Open the app.vwo.com
     // We want to verify the title by using the TestNG assertion.

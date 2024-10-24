@@ -5,7 +5,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-public class Oct_13th_ex_013 {
+public class pagesource {
 
     @Test
     public void task(){
